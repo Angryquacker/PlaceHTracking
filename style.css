@@ -1,0 +1,17 @@
+html {
+    background-color: #222f38;
+    color: #1F77B4;
+    font-family: monospace;
+}
+
+body {
+    text-align: center;
+}
+
+figure {
+    border: 2px solid #1F77B4;
+    height: 650px;
+    width: 850px;
+    margin-right: auto;
+    margin-left: auto;
+}
